@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-__author__ = 'bobby'
 class Student:
     def say(self):
         print("i am student")

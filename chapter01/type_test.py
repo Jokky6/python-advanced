@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-__author__ = 'bobby'
 a=1
 b="abc"
 print(type(1))
